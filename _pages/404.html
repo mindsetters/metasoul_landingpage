@@ -19,7 +19,7 @@ layout: default
 
 <div class="container">
   <h1>404</h1>
-  <center><img src="../assets/images/man_panic.png" style="max-width: 250px;"></center>
+  <center><img src="{{ '/assets/images/man_panic.png' | prepend: site.baseurl }}" style="max-width: 250px;"></center>
   <h3>There is nothing to worry about, you just got lost...</h3>
   <p>Keep calm and go back to <a href="{{ '/' | prepend: site.baseurl }}">Home</a></p>
 </div>
