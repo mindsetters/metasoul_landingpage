@@ -5,6 +5,7 @@ date:   2021-07-22 16:15:50 +0200
 categories: jekyll update
 tags: metasoul
 sticky: false # set to true, it'll be placed one extra time at the very top of the Blog overview
+comments: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

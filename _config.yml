@@ -23,9 +23,9 @@ author: mindsetters
 email: info@metasoul.com
 description: >- # this means to ignore newlines until "baseurl:"
   The digital you.
-baseurl: "metasoul-blog" # the subpath of your site, e.g. /blog --> need to be
+baseurl: "" # the subpath of your site, e.g. /blog --> need to be
 # metasoul-blog once published to github pages
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "metasoul_landingpage" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: toni_b85
 github_username:  finack42
 
@@ -33,7 +33,7 @@ github_username:  finack42
 # theme: tale
 remote_theme: chesterhow/tale
 permalink:  /:year-:month-:day/:title
-paginate:   5 # set to 5 posts per page by default
+# paginate:   5 # set to 5 posts per page by default
 
 markdown: kramdown
 include:
@@ -50,6 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 # - jemoji # Uncomment this to allow emoji in your post
+disqus: test1337-1
 
 defaults:
   - scope:
