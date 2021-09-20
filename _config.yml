@@ -23,7 +23,7 @@ author: mindsetters
 email: info@metasoul.com
 description: >- # this means to ignore newlines until "baseurl:"
   The digital you.
-baseurl: "metasoul_landingpage" # the subpath of your site, e.g. /blog --> need to be
+baseurl: "" # the subpath of your site, e.g. /blog --> need to be
 # metasoul-blog once published to github pages
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: toni_b85
