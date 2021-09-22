@@ -4,45 +4,58 @@ title: Imprint
 permalink: /imprint/
 author: "mindsetters"
 ---
-<h3>Legal Notice</h3>
-
-Information in accordance with §5 of the E-Commerce Act, §14 of the Unternehmensgesetzbuch, §63 of the Commercial Code and disclosure requirements under §25 of the Media Act.  
-
-mindsetters OG  
-Jägergasse 2  
-5450 Werfen  
-Österreich  
-
-Object of the company: IT Services
-VAT-Number: ATU76915448  
-GLN: 9110030552552  
-GISA: 33883984  
-Corporate register number: 557749w  
-Corporate register court: Bezirksgericht Salzburg  
-Company location: 5450 Werfen  
-
-Phone: 06641081527  
-Email: info@mindsetters.com  
-
-Member of: WKO  
-Laws re. professions: Gewerbeordnung: [www.ris.bka.gv.at](https://www.ris.bka.gv.at/)
-
-Supervisory/Trade authority: Bezirkshauptmannschaft St. Johann im Pongau  
-Job title: IT Service Provider  
-Awarding country: Austria  
-
-Authorized representatives  
-David Brucker, Stefan Winkler  
-
-Ownership structure  
-Gesellschafter David Brucker 50%, Stefan Winkler 50%  
-
-Contact details of the data protection controller  
-If you have any question about data protection, please find the contact details of the body or person responsible for data protection below:  
-mindsetters OG  
-E-Mail: info@mindsetters.com  
-Phone: 06641081527  
-
-All texts are copyrighted.  
-
-Source: Created with the Impressum Generator by AdSimple
+<html>
+<body>
+<div>Information in accordance with &sect;5 of the E-Commerce Act, &sect;14 of the Unternehmensgesetzbuch, &sect;63 of the Commercial Code and disclosure requirements under &sect;25 of the Media Act.</div>
+<div>&nbsp;</div>
+<div><strong>mindsetters OG</strong></div>
+<div>J&auml;gergasse 2</div>
+<div>5450 Werfen</div>
+<div>&Ouml;sterreich</div>
+<div>&nbsp;</div>
+<div>Object of the company: IT Services</div>
+<div>VAT-Number: ATU76915448</div>
+<div>GLN: 9110030552552</div>
+<div>GISA: 33883984</div>
+<div>Corporate register number: 557749w</div>
+<div>Corporate register court: Bezirksgericht Salzburg</div>
+<div>Company location: 5450 Werfen</div>
+<div>&nbsp;</div>
+<div>Phone numbers:</div>
+<div>
+<table style="height: 40px; width: 100%; border-collapse: collapse; border-style: hidden;" border="0">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 9.97089%; height: 22px;">Stefan:</td>
+<td style="width: 90.0291%; height: 22px;"><img style="float: left;" src="data:image/png;base64,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" width="157" height="18" /></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 9.97089%; height: 18px;">David:</td>
+<td style="width: 90.0291%; height: 18px;"><img style="float: left;" src="data:image/png;base64,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" width="151" height="18" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: left;">&nbsp;</div>
+<div>Email:</div>
+<div><img style="border-style: none; float: left;" src="data:image/png;base64,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" width="170" height="17" /></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Member of: WKO</div>
+<div>Laws re. professions: Gewerbeordnung: [www.ris.bka.gv.at](https://www.ris.bka.gv.at/)</div>
+<div>&nbsp;</div>
+<div>Supervisory/Trade authority: Bezirkshauptmannschaft St. Johann im Pongau</div>
+<div>Job title: IT Service Provider</div>
+<div>Awarding country: Austria</div>
+<div>&nbsp;</div>
+<div>Authorized representatives</div>
+<div>David Brucker, Stefan Winkler</div>
+<div>&nbsp;</div>
+<div>Ownership structure</div>
+<div>Gesellschafter David Brucker 50%, Stefan Winkler 50%</div>
+<div>&nbsp;</div>
+<div>All texts are copyrighted.</div>
+<div>&nbsp;</div>
+<div>Source: Created with the Impressum Generator by AdSimple</div>
+</body>
+</html>
