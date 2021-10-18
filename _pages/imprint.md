@@ -42,7 +42,7 @@ author: "mindsetters"
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>Member of: WKO</div>
-<div>Laws re. professions: Gewerbeordnung: [www.ris.bka.gv.at](https://www.ris.bka.gv.at/)</div>
+<div>Laws re. professions: <a class="adsimple-111834433" href="https://www.ris.bka.gv.at/" target="_blank" rel="noopener">www.ris.bka.gv.at</a>
 <div>&nbsp;</div>
 <div>Supervisory/Trade authority: Bezirkshauptmannschaft St. Johann im Pongau</div>
 <div>Job title: IT Service Provider</div>
